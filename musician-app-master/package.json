@@ -21,5 +21,9 @@
     "moxios": "^0.4.0",
     "nodemon": "^1.18.11",
     "supertest": "^4.0.0"
+  },
+  "engines": {
+    "node": "14.x",
+    "npm": "6.x"
   }
 }
