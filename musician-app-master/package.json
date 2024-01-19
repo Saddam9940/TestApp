@@ -4,8 +4,7 @@
   "description": "A NodeJS REST API poc",
   "main": "app.js",
   "scripts": {
-   "start": "node app.js"
-}"test": "jest",
+  "test": "jest",
     "start": "nodemon app.js",
     "start-dev": "nodemon app.js"
   },
